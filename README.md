@@ -1,0 +1,1 @@
+# Stanford-LaTeX-Poster-Template
