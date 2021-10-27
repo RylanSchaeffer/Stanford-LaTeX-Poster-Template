@@ -1,7 +1,5 @@
 # Stanford LaTeX Poster Template
 
-## Author: Rylan Schaeffer
-
 ![](poster_pic.png)
 
 There are four color demos under `demos`: Palo Alto Green, Cardinal Red, White and Cool Gray. To change the color, go to `beamerthemestanford.sty` and change the `headline` color:
