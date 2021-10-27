@@ -1,4 +1,4 @@
-# Stanford-LaTeX-Poster-Template
+# Stanford LaTeX Poster Template
 
 ## Author: Rylan Schaeffer
 
