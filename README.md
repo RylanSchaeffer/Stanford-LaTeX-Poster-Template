@@ -2,7 +2,7 @@
 
 ![](poster_pic.png)
 
-*Note*: If used on Overleaf, you may need to switch LaTeX compilers; see this [SO post](https://tex.stackexchange.com/a/400877/168614).
+**Note**: If used on Overleaf, you may need to switch LaTeX compilers; see this [SO post](https://tex.stackexchange.com/a/400877/168614).
 
 There are four color demos under `demos`: Palo Alto Green, Cardinal Red, White and Cool Gray. To change the color, go to `beamerthemestanford.sty` and change the `headline` color:
 
