@@ -2,7 +2,9 @@
 
 ![](poster_pic.png)
 
-There are four color demos under `demos`: Palo Alto Green, Cardinal Red, White and Cool Gray. To change the color, go to `beamerthemestanford.sty` and change the `headline` color by (un)commenting the [relevant lines](https://github.com/RylanSchaeffer/Stanford-LaTeX-Poster-Template/blob/master/beamercolorthemestanford.sty#L44-L47):
+## 4 Available Colors
+
+There are four available colors (demos under `demos/`): Palo Alto Green, Cardinal Red, White and Cool Gray. To change the color, go to `beamerthemestanford.sty` and change the `headline` color by (un)commenting the [relevant lines](https://github.com/RylanSchaeffer/Stanford-LaTeX-Poster-Template/blob/master/beamercolorthemestanford.sty#L44-L47):
 
 - White Text, Palo Alto Green Banner: `\setbeamercolor{headline}{bg=paloaltogreen,fg=white}`
 - Cardinal Red Text, White Banner: `\setbeamercolor{headline}{bg=white,fg=cardinalred}`
