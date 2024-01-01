@@ -11,7 +11,7 @@ There are 4 available colors (see `demos/`): Palo Alto Green, Cardinal Red:
   <img align="top" src="demos/Stanford_CS_Poster_Template_Red.png" width="45%" />
 </p>
 
-White and Grey:
+White, Cool Grey:
 
 <p align="middle">
   <img align="top" src="demos/Stanford_CS_Poster_Template_White.png" width="45%" />
