@@ -4,7 +4,7 @@
 
 ## 4 Available Colors
 
-There are 4 available colors (demos under `demos/`): Palo Alto Green, Cardinal Red:
+There are 4 available colors (see `demos/`): Palo Alto Green, Cardinal Red:
 
 <p align="middle">
   <img align="top" src="demos/Stanford_CS_Poster_Template_Green.png" width="45%" />
