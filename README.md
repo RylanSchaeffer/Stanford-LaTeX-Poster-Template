@@ -1,5 +1,7 @@
 # Stanford LaTeX Poster Template
 
+Overleaf Example (Landscape): https://www.overleaf.com/read/rmpccmkvqdmc#901901
+
 **Note:** If using Overleaf, make sure to set the compiler to XeLatex (Menu in the top left > Settings > Compiler).
 
 ![](poster_pic.png)
