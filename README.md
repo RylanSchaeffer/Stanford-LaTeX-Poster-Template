@@ -2,6 +2,8 @@
 
 ![](poster_pic.png)
 
+**Note:** If using Overleaf, make sure to set the compiler to XeLatex (Menu in the top left > Settings > Compiler).
+
 ## 4 Available Colors
 
 There are 4 available colors (see `demos/`): Palo Alto Green, Cardinal Red:
