@@ -1,8 +1,9 @@
 # Stanford LaTeX Poster Template
 
+**Note:** If using Overleaf, make sure to set the compiler to XeLatex (Menu in the top left > Settings > Compiler).
+
 ![](poster_pic.png)
 
-**Note:** If using Overleaf, make sure to set the compiler to XeLatex (Menu in the top left > Settings > Compiler).
 
 ## 4 Available Colors
 
